@@ -4,8 +4,8 @@
 - 研修の概要
 - 開発環境の構築
 - WebサービスAPIの基本
- - SOAPとREST
- - XMLとJSON
+  - SOAPとREST
+  - XMLとJSON
 - WebサービスAPIと個人認証
- - OpenID入門
- - OAuth2入門
+  - OpenID入門
+  - OAuth2入門
